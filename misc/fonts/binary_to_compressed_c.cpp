@@ -25,6 +25,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <assert.h>
+#include "uqpch.h"
 
 // stb_compress* from stb.h - declaration
 typedef unsigned int stb_uint;
